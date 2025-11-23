@@ -15,7 +15,7 @@ const Footer = () => {
             </p>
             <div className="footer-contact">
               <p><strong>Phone:</strong> +44 7723058250</p>
-              <p><strong>Email:</strong> info@ha-builders.co.uk</p>
+              <p><strong>Email:</strong> info@ha-builders.uk</p>
               <p><strong>Address:</strong> 156 Cippenham Lane, Slough, England, SL1 5BA</p>
             </div>
           </div>
