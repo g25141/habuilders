@@ -100,7 +100,7 @@ const Contact = () => {
                   <div>
                     <h4>Address</h4>
                     <p>
-                      56 Cippenham Lane<br />
+                      156 Cippenham Lane<br />
                       Slough, England<br />
                       SL1 5BA
                     </p>
